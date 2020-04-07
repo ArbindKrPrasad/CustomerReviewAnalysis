@@ -7,7 +7,7 @@ Here we required to download some libraries.
 Command:
   pip install textblob
   
-2. nltk Library
+2. nltk Library: 
   pip install nltk
   
   
