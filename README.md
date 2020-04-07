@@ -13,6 +13,6 @@ Command:
   
   
 Run the file  ReviewAnalysisCode.py in an IDE or in command line with the command
-    (File Directory)/>python ReviewAnalysisCode.py
+(File Directory)/>python ReviewAnalysisCode.py
     
 Make sure to keep the AmazonReview44.csv file in the same directory that of the .py file
