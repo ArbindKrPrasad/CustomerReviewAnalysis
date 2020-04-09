@@ -2,6 +2,7 @@ from tkinter import *
 import csv
 from textblob import TextBlob
 
+#install textblob using the command:    #pip install textblob
 
 #Searching the product
 with open('amazonreview44.csv') as csv_file:
@@ -198,16 +199,9 @@ def ok():
 button = Button(frame, text="Analyze...",command=ok, bg="green", fg="white", activebackground='green', activeforeground='black')
 button.grid(row=3, column=0, columnspan=4)
 
-#product_image_label = Label(frame, text="Arbind Kumar")
-#product_image_label.grid(row=4, column=3, rowspan=4)
-
-
 # Output on the gui
 product_found_label = Label(frame, text="", font="Times 10", fg="cyan", bg='black')
 product_found_label.grid(row=4, column=0, columnspan=4)
-
-
-
 
 print(product_input)
 top.mainloop()
