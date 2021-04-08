@@ -17,3 +17,7 @@ Run the file  ReviewAnalysisCode.py in an IDE or in command line with the comman
 (File Directory)/>python ReviewAnalysisCode.py
     
 Make sure to keep the AmazonReview44.csv file in the same directory that of the .py file
+
+[![Watch the video](https://user-images.githubusercontent.com/38696263/114022472-6fe5ab80-988f-11eb-999a-2feaf8f2493e.png)](https://youtu.be/HUvEgZW50ws)
+
+
