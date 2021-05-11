@@ -1,6 +1,11 @@
 # CustomerReviewAnalysis
 This code analyze the product reviews of amazon database.
 
+
+https://user-images.githubusercontent.com/38696263/117747128-35bf4f00-b22b-11eb-8967-fc1feb6177a5.mp4
+
+
+
 Here we required to download some libraries.
 
 1. TextBlob Library
@@ -18,7 +23,6 @@ Run the file  ReviewAnalysisCode.py in an IDE or in command line with the comman
     
 Make sure to keep the AmazonReview44.csv file in the same directory that of the .py file
 
-[![Watch the video](https://user-images.githubusercontent.com/38696263/114024022-2e560000-9891-11eb-8d3e-0a226f12916b.png)](https://youtu.be/HUvEgZW50ws)
 
 
 
